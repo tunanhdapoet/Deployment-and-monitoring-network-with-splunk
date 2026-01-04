@@ -16,7 +16,8 @@ Hệ thống mạng được chia thành 3 vùng bảo mật chính:
 
 Tất cả được bảo vệ và kiểm soát bởi **Sophos Firewall**.
 
-![Sơ đồ kiến trúc hệ thống](topology.png)
+![Sơ đồ kiến trúc hệ thống]
+<img width="896" height="792" alt="Screenshot 2026-01-04 154542" src="https://github.com/user-attachments/assets/3c7da685-eb32-4843-ad0d-4c9ce9f7dffa" />
 
 ## 3. Công Nghệ Sử Dụng (Tech Stack)
 * **Core SIEM:** Splunk Enterprise (Indexer & Search Head).
@@ -58,7 +59,9 @@ Tất cả được bảo vệ và kiểm soát bởi **Sophos Firewall**.
 ## 5. Kết Quả & Dashboard
 Dưới đây là hình ảnh Dashboard giám sát trực quan trên Splunk:
 
-![Dashboard giám sát Splunk](dashboard.png)
+![Dashboard giám sát Splunk]
+<img width="1133" height="613" alt="Screenshot 2026-01-04 155725" src="https://github.com/user-attachments/assets/588a1af7-365c-4a37-bdfd-84432aa685ed" />
+
 
 ## 6. Hướng Dẫn Cài Đặt Cơ Bản
 1.  **Dựng Lab:** Sử dụng VMware/EVE-NG để dựng các máy ảo (Sophos, Windows DC, Ubuntu Splunk).
